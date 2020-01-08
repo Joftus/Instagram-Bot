@@ -1,0 +1,29 @@
+Website: socialtradia
+    pets / animals: 43
+    cars / bikes: 45
+    fitness / sports: 42
+    food / nutrition: 42
+    fashion / style: 43
+    photography / travel: 42
+    humuor / memes: No Sales
+    luxury / motivation: 35
+    art / gaming: No Sales
+    realestate / interior: 45
+    vape / smoke: No Sales
+    quotes / texts: 49
+
+Website: fameswap
+    humor / memes: 63
+    quotes / sayings: 57
+    cars / bikes: 77
+    fitness / sports: 70
+    fashion / style: 61
+    food / nutrition: 66
+    luxury / motivation: 44
+    outdoor / travel: 53
+    pets / animals: 71
+    models / celebrities: 65
+    movies / tv / fanpages: 49
+    educational / qa: 61
+    gaming / entertainment: 63
+    reviews / how-to: 57
